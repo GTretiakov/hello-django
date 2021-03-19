@@ -26,7 +26,7 @@ SECRET_KEY = '$p^8(8kjcv-w*(!9&xv3y=g(1_5lo9jye%4c62s(i)*^l&a3)m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-my-first-app.herokuapp.com']
 
 
 # Application definition
